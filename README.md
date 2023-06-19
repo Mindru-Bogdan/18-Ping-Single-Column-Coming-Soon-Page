@@ -1,0 +1,1 @@
+# 18-Ping-Single-Column-Coming-Soon-Page
