@@ -3,8 +3,8 @@ import classes from './Submit.module.css';
 const Submit = () => {
   return (
     <div>
-      <input placeholder="Your email addres..."></input>
-      <p>Notify Me</p>
+      <input type="text" placeholder="Your email address..."></input>
+      <p className={classes.button}>Notify Me</p>
     </div>
   );
 };
