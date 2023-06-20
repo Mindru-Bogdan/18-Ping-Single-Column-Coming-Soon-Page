@@ -39,7 +39,7 @@
     
     h2 {
         display: inline;
-        color: #1c242e;
+        color: hsl(209, 33%, 12%);
         font-size: 22px;
     }
     
@@ -47,22 +47,24 @@
         font-size: 14px;
         margin-top: 20px;
         margin-bottom: 30px;
-        color: #1c242e;
+        color: hsl(209, 33%, 12%);
     }
     
     .illustration {
         position: absolute;
         width: 320px;
+        top: 0px;
         left: 50%;
         margin-left: -160px; 
-        margin-top: 50px;
+        margin-top: 400px;
     }
     
     .iconFacebook {
         position: absolute;
         height: 14px;
+        top: 0px;
         left: 50%;
-        margin-top: 340px;
+        margin-top: 700px;
         margin-left: -57px;
         padding: 7px 9.625px 7px;
         border-radius: 20px;
@@ -78,8 +80,9 @@
     
     .iconTwitter {
         position: absolute;
+        top: 0px;
         left: 50%;
-        margin-top: 340px;
+        margin-top: 700px;
         margin-left: -14px;
         height: 14px;
         padding: 7px;
@@ -98,8 +101,9 @@
     .iconInstagram {
         position: absolute;
         height: 16px;
+        top: 0px;
         left: 50%;
-        margin-top: 340px;
+        margin-top: 700px;
         margin-left: 29px;
         padding: 6px 7px 6px;
         border-radius: 20px;
@@ -116,8 +120,9 @@
     .copyright {
         position: absolute;
         display: block;
+        top: 0px;
         left: 50%;
-        margin-top: 400px;
+        margin-top: 750px;
         margin-left: -102.328px;
         color: #9c9c9c;
         font-size: 12px;
@@ -154,14 +159,14 @@
     
     h2 {
         display: inline;
-        color: #1c242e;
+        color: hsl(209, 33%, 12%);
         font-size: 44px;
     }
     
     .subs {
         font-size: 20px;
         margin-bottom: 40px;
-        color: #1c242e;
+        color: hsl(209, 33%, 12%);
     }
     
     .illustration {
